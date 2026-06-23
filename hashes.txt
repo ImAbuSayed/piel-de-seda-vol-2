@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel de seda, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Piel de seda, Vol. 2** (piel-de-seda-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T13:00:17.802523 | `v1` | `7bf9fec97f5fa1156cc5fe284783e8ef938b778f39e4b98aa058b14500b51fbe` | `fb3ce12d7cb927abb4c3c985907be210111afe832beb79cdfc4c1d5eebe9838c` | `2026-06-23_piel-de-seda-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

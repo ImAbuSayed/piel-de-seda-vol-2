@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-seda-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Piel de seda, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-seda-vol-2/) |
+| **Get License** | [License this song: Piel de seda, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-seda-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7bf9fec97f5fa1156cc5fe284783e8ef938b778f39e4b98aa058b14500b51fbe` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
